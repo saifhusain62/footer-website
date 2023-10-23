@@ -1,0 +1,42 @@
+footer{
+
+	
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	background-color: dimgray;
+	width: 100%;
+	color: white;
+}
+.saimum{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.sss{
+
+	color:aquamarine;
+	font-family: arial;
+	width: 700px;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: -30px;
+	
+	
+	
+}
+.icon i{
+	font-size: 45px;
+	position: relative;
+	top: -20px;
+	padding: 10px;
+
+}
+.copy{
+	height: 60px;
+	width: 100%;
+	background-color: black;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+}
